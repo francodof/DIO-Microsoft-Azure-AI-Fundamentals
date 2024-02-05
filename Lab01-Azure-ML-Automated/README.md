@@ -18,12 +18,15 @@ Sobre *implantação*, *inferência* e *pontos de extremidade*, consultar a seç
 
 ### 
 Utilizaremos o Machine Learning Studio para criarmos nosso modelo. Antes, contudo, devemos primeiramente acessar o portal *https://portal.azure.com* e, uma vez que já tenha registrado sua conta, a tela deve apresentar um painel como abaixo:
+
 <img src="img/01.png" width=200 alt="fig 1">
 
 Selecione `Criar um recurso` e busque por *Azure Machine Learning*. Selecionando o recurso, na página seguinte clique em `Criar`.
+
 <img src="img/02.png" width=200 alt="fig 2">
 
 Para o nosso laboratório, a aba `Básico` foi configurada como abaixo:
+
 <img src="img/03.png" width=200 alt="fig 3" width = 400>
 
 Acima, note que o campo `Assinatura`já vem preenchido automaticamente; o texto poderá ser diferente, a depender do tipo de conta que se faz o acesso.
