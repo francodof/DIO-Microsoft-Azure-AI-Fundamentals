@@ -5,6 +5,10 @@
 &nbsp &nbsp &nbsp &nbsp
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" width=60 alt = "DIO">
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 Laboratório integrante do **Bootcamp Microsoft AI Fundamentals**, oferecido pela [Dio](https://www.dio.me/) em parceria com a Microsoft.
 
 ## Atividades
