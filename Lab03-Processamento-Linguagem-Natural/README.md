@@ -60,7 +60,7 @@ Utilizou-se um texto de avaliação de hotel, em inglês, e o resultado é mostr
 
 Temos abaixo um outro texto retirado das avaliações de uma cadeira de escritório anunciada num famoso site de e-commerce brasileiro. Note que o algoritmos identifica as palavras alvo e as características referentes a elas, avaliando o quanto positiva, neutra ou negativa é a frase. Nesse caso, 100% negativa, percebendo-se que não há um único ponto positivo relatado pelo cliente.
 
-<img src="img-readme/08.png" width=400 alt = "análise de sentimento e-commerce">
+<img src="img-readme/07.png" width=400 alt = "análise de sentimento e-commerce">
 
 
 
