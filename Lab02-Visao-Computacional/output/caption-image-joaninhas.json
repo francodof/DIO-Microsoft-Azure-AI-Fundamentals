@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "cf886102-fd07-4be7-8197-85b4d4d818e5",
+  "content-length": "150",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "two ladybugs on a leaf",
+    "confidence": 0.8473349809646606
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 720
+  }
+}
