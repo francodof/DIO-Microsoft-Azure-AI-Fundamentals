@@ -36,11 +36,11 @@ Acesse a aba **Optical character recognition** e escolha **Extract text from ima
 Utilizamos três imagens coletadas da web sob a licença Creative Commons e que foram testadas no serviço de reconhecimento ótico. As imagens encontram-se no diretório inputs e as saídas, em json, no diretório outputs.
 
 
-<img src = img-readme/outputs/res-im1.png alt="service" width=400>
+<img src = outputs/res-im1.png alt="service" width=400>
 
-<img src = img-readme/outputs/res-im2.png alt="service" width=400>
+<img src = outputs/res-im2.png alt="service" width=400>
 
-<img src = img-readme/outputs/res-im3.png alt="service" width=400>
+<img src = outputs/res-im3.png alt="service" width=400>
 
 Percebe-se que no segundo exemplo de imagem reconhece com erros. Já, a terceira imagem não consegue ser feita a leitura. No mais, o reconhecimento ótico tem funcionado bem para extração de textos garrafais, de jornais, etc.
 
